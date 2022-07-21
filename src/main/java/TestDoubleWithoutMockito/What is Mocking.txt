@@ -1,0 +1,9 @@
+Mocking
+
+Mocking help us in testing functionality of class in isolation.
+
+It does not require database connection,communicating to external
+servers or going over network to testafunctionality.
+
+Mock objects simulate real service by taking in actual input and
+returning back expected output.

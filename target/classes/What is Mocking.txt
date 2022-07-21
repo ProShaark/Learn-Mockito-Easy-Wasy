@@ -1,0 +1,5 @@
+We need to mock getBook because it is communicating to database or not implemeted.
+We need to call getAppliedDiscount to calculate the discounted price
+
+Code to bring book from database
+Method not implemented

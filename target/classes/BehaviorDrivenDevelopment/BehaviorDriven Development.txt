@@ -1,0 +1,14 @@
+It  is development process that encourage writing tests in a natural, human readable lanagauage that focuses on behavior of the application.
+
+It defines a style of wrting test cases in :- given, when, then 
+
+it also correspond AAA testing  i.e Arrange Act Assert
+
+given =Arrange
+
+when =Act
+
+then =Assert
+
+for example -Given a book , when addBook method is called, Then book is saved to database.
+Mockito library conatains a class by name BDDMockito, which introduced BDD style API's.

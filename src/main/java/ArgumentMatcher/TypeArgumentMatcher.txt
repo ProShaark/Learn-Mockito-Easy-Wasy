@@ -1,0 +1,11 @@
+Argument Matcher
+
+
+One of the primary benefit of Mockito is ability to perform stubbing of method and behavior verification.
+
+Mockito uses equals() method to compare the argument and verify that mock method was called with poper arguments
+
+Argument Matcher are like wildcards where instead of specific input we can specify range or type of input
+
+
+

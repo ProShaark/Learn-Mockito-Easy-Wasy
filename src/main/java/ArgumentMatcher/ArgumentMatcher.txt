@@ -1,0 +1,16 @@
+Specific Type Argument Matchers
+Specific Type Argument Matchers can match to any object of given
+type
+Method Name    			  Matching Rules
+anyBoolean()  			 any object of Boolean type or null
+anyByte()    			any object of Byte type or null
+anyChar()  				any object of Character type or null
+anyDouble()				 any object of Double type or null
+anyFloat() 					any object of Float type or null
+anyInt						any object of Integer type or null
+anyLong						any object of Long type or null
+anyShort				any object of Short type or null
+anyString					any object of String type or null
+
+
+

@@ -1,0 +1,7 @@
+Spy
+
+Spy objects are very similar to Stubs,but they record information about
+how they were executed.
+
+▸Its mostly used with stubbed external dependency+recording every
+interaction with external dependency.

@@ -1,0 +1,8 @@
+Mock
+▸Its works very similar to Spy.
+▸Mock object records method calls on it,and verifies later that the
+recorded calls match.
+
+▸The assert and behavior verification is done at mock object.
+
+

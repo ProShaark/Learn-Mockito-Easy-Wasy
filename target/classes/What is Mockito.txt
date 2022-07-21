@@ -1,0 +1,18 @@
+Mockito is an open source testing framework for Java.
+The framework allows the creation of test doubles objects(mock
+objects)for unit tests.It uses Java Reflection in order to create mock
+objects.
+It is one of the top 10 Java libraries used by Java developers.
+
+
+Benefits of Mockito
+It saves developers from writing test doubles or mock objects on their
+own.
+It has support for exception handling.
+It has support for stubbing methods.It help us in returning configured
+response.
+
+It can check order of method calls and number of times method being
+called.
+
+Annotations support.

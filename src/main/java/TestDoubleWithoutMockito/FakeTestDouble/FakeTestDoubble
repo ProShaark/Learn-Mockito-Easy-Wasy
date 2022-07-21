@@ -1,0 +1,9 @@
+Fake
+►Fake objects are usually light weight objects used only for testing.They
+have working implementations,but not as actual production object.
+
+►Fake objects have functional implementation,but its in very basic form.
+▸For
+
+ example,instead of actual production database we can use an(in
+memory database,hashmaps or lists)in test.

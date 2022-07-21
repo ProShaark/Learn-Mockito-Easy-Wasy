@@ -1,0 +1,34 @@
+What is Stubbing?
+
+One of the primary benefit of Mockito is ability to return a provided
+response when a specific method is called on mocked dependency.
+
+The process of writing how a given mock method should behave is
+called stubbing.
+
+The feature is performed in two ways-
+
+▸Using Mockito's static method when()+then Return().It states that
+'when'any specific method is called on mock object,'then return'
+preconfigured value.
+
+Using Mockito's static method doReturn()+when().It states that'do
+return'preconfigured value,'when'specific method is called on
+mock object.
+
+-------------------------------------------------------------------------------------------
+Tips
+Mockito uses equals()method while matching arguments during
+stubbing.
+In case response is not stubbed foramethod,default values are
+returned when called.
+For primitives-0is returned.
+For boolean false is returned.
+For Objects and Arrays-null is returned.
+For Collections-empty collections is returned.
+--------------------------------------------------------------------------------------------
+Basic Stubbing in Mockito
+  
+ when()then Return()methods
+ doReturn()when()methods
+

@@ -1,0 +1,9 @@
+Stub
+
+▸Stub object provides predefined answers to method executions made
+during the test.
+
+►The behavior is hardcoded programmatically for a particular test.
+
+►Instead of calling external service,stub is called and it returns back an
+expected response.

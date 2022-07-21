@@ -1,0 +1,16 @@
+Collection Type Argument Matchers
+Collection Type Argument Matchers can match to any collection typebased on provided type
+
+
+Method Name                   Matching Rules
+any Collection()			any Collection type
+anyList()				any List type
+anyMap()					any Map type
+anySet()							any Set type
+
+
+
+
+
+
+

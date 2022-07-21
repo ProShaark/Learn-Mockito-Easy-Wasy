@@ -1,0 +1,6 @@
+Spy
+Spy objects record information about how they were interacted.
+*Spies allow us to call all the normal methods of the external
+dependency while still tracking every interaction.Thus,its very less
+used Test Double as actual external dependency is still involved.
+They are also termed as Partial Mock.

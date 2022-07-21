@@ -1,0 +1,7 @@
+String Type Argument Matchers
+
+Method Name							Matching Rules
+matches (String regex)		String that matches to given regular expression
+startsWith(String s)		String that starts with given string
+endsWith(String s)          String that ends with given string
+contains(String s)			String that contains the given string

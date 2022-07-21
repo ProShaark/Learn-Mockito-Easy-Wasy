@@ -1,0 +1,7 @@
+Dummy
+
+▸It doesn't have any business logic.
+
+▸It is an object that is used only for code to compile.
+▸For example,an object passed as a parameter to a constructor.It is
+passed just to make code compile.

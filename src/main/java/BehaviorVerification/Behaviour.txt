@@ -1,0 +1,17 @@
+What is Behavior Verification?
+
+One of the primary benefit of Mock object is that once it gets created,
+it remembers all operations performed on it.
+
+Behavior verification help us in verifying that certain mock method was
+called by System Under Test or not.
+
+It is done by using verify()method.
+
+Usage-verify(bookRepository).save(book);
+
+The verify()method checks ifagiven method was called once and only
+once with given arguments.
+
+It uses equals()method to compare the arguments and verify that
+mock method was called with proper arguments.
